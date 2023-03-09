@@ -1,0 +1,14 @@
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route"}
+{"context":"RoutesResolver","level":"info","message":"ProductsController {/api/products}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/products/parse, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/products/data, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
+{"level":"info","message":"Application is running on: http://[::1]:3000"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/, GET} route"}
+{"context":"RoutesResolver","level":"info","message":"ProductsController {/api/products}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/products/parse, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/products/data, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
+{"level":"info","message":"Application is running on: http://[::1]:3000"}

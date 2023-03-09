@@ -1,0 +1,32 @@
+{"level":"info","message":"Server started on port 3001","service":"parsing-service","timestamp":"2023-02-25T10:03:17.012Z"}
+{"level":"error","message":"Error reading data: ENOENT: no such file or directory, open 'data/parse.txt'","timestamp":"2023-02-25T10:05:20.737Z"}
+{"level":"error","message":"Error reading data: ENOENT: no such file or directory, open 'data/parse.txt'","timestamp":"2023-02-25T10:06:45.265Z"}
+{"level":"error","message":"Error reading data: ENOENT: no such file or directory, open 'data/parse.txt'","timestamp":"2023-02-25T10:06:53.042Z"}
+{"level":"info","message":"Server started on port 3001","service":"parsing-service","timestamp":"2023-02-25T10:08:18.469Z"}
+{"level":"info","message":"Server started on port 3001","service":"parsing-service","timestamp":"2023-02-25T10:08:27.354Z"}
+{"level":"info","message":"Server started on port 3001","service":"parsing-service","timestamp":"2023-02-25T10:09:29.769Z"}
+{"level":"info","message":"Server started on port 3001","service":"parsing-service","timestamp":"2023-02-25T10:12:12.098Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:12:55.085Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:13:52.212Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:14:00.059Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:14:15.527Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:14:17.417Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:18:54.440Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:18:57.058Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:31:38.409Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:32:07.091Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:32:27.261Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:32:49.253Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:37:19.233Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:37:27.184Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:38:07.219Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:39:54.203Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:39:55.148Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:47:43.270Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:47:51.519Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:49:58.879Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:50:00.312Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:50:09.182Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:50:54.867Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:50:59.480Z"}
+{"level":"info","message":"Server started on port 3000","service":"parsing-service","timestamp":"2023-02-25T10:51:08.002Z"}
